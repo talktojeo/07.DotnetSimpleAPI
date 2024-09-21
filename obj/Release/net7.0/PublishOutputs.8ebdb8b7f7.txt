@@ -1,0 +1,12 @@
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\simletWebApi.exe
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\simletWebApi.dll
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\simletWebApi.deps.json
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\simletWebApi.runtimeconfig.json
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\simletWebApi.pdb
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\03.DevProjects\DotnetWeatherProj\simletWebApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
